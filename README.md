@@ -5,10 +5,10 @@
 ##### I am a full stack developer with 4+ years of industry experience building web applications.
 
 - 🔭 I’m currently working on [GitNoter](https://github.com/burakovec/gitnoter).
-- 🌱 I’m currently learning **RegEx**
+- 🌱 I’m currently learning **.NET**
 - 🤔 I’m looking for help with [GitNoter Issues](https://github.com/burakovec/gitnoter/issues)
-- 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
-- 📫 How to reach me: vivekweb2013@gmail.com
+- 💬 Ask me about **.NET **
+- 📫 How to reach me: burakovecc@outlook.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I paint at times!
 
