@@ -20,4 +20,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakovec&layout=compact&langs_count=6"/>
 </div>
  
-![Profile views](https://gpvc.arturio.dev/burakovec)  
+![Profile views](https://gpvc.arturio.dev/burakovec)   
