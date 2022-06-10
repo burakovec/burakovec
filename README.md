@@ -19,3 +19,8 @@
 ---
 ![burakovec's github stats](https://github-readme-stats.vercel.app/api?username=burakovec&show_icons=true&include_all_commits=true&count_private=true)
 
+---
+![burakovec's github stats](https://github-readme-stats.vercel.app/api?username=burakovec&show_icons=true&include_all_commits=true)
+
+---
+![burakovec's github stats](https://github-readme-stats.vercel.app/api?username=burakovec&show_icons=true)
