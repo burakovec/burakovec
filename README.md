@@ -21,3 +21,5 @@
 </div>
  
 ![Profile views](https://gpvc.arturio.dev/burakovec)   
+
+  [![Burak Öveç Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=burakovec)](https://github.com/burakovec/github-readme-stats)
