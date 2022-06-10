@@ -1,6 +1,6 @@
 ## Hi 👋, my name is Burak
 
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://raw.githubusercontent.com/burakovec/burakovec/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
 ##### I am a full stack developer with 4+ years of industry experience building web applications.
 
