@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/burakovec/burakovec/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
-##### I am a full stack developer with 4+ years of industry experience building web applications.
+##### I am a full stack developer with 6+ years of industry experience building web applications.
 
 - 🔭 I’m currently working on nSoft.
 - 🌱 I’m currently learning **.NET** 
