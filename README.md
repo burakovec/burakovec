@@ -10,7 +10,7 @@
 - 📫 How to reach me: burakovecc@outlook.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I paint at times!
-
+<img src="https://github.com/burakovec/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 ##### Online Presence
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/burakovec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/burakovec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/burakovec)  
 ---
