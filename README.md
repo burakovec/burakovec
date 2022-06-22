@@ -1,7 +1,11 @@
 ## Hi 👋, my name is Burak
 
-<img align="right" src="https://raw.githubusercontent.com/burakovec/burakovec/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
-
+<a href="https://github.com/burakovec/github-stats">
+<img src="https://github.com/burakovec/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/burakovec/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/burakovec/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/burakovec/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 ##### I am a full stack developer with 6+ years of industry experience building web applications.
 
 - 🔭 I’m currently working on nSoft.
