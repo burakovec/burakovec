@@ -15,7 +15,7 @@
   <a href="https://github.com/burakovec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakovec&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakovec&layout=compact&langs_count=10"/>
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/burakovec?cardType=level-alternate&Title=DD2727)](https://git.io/awesome-stats-card)
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&Title=DD2727">    <img  alt="burakovec's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/burakovec?cardType=level-alternate&Title=DD2727" />  </a>
 </div>
   
 ![Profile views](https://gpvc.arturio.dev/burakovec)  
