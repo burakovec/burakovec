@@ -12,9 +12,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/burakovec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/burakovec)
 ---
 <div>
-  <a href="https://github.com/burakovec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakovec&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakovec&layout=compact&langs_count=10"/>
+  <a href="https://github.com/burakovec"> 
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&Title=DD2727">    <img  alt="burakovec's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/burakovec?cardType=level-alternate&Title=DD2727" />  </a>
 </div>
   
