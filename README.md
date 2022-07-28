@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on nSoft.
 - 🌱 I’m currently learning **.NET** 
 - 💬 Ask me about **.NET **
-- 📫 How to reach me: burakovecc@outlook.com
+- 📫 How to reach me: https://www.linkedin.com/in/burakovecc
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I paint at times!
 
